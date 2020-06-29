@@ -1,0 +1,2 @@
+import os
+freshdesk_url = os.getenv('FRESHDESK_URL')
